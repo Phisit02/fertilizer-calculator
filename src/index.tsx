@@ -1,3 +1,4 @@
+import './index.css'; // **นี่คือบรรทัดที่เพิ่มเข้ามา**
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import App from './App';
